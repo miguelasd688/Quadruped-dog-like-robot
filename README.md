@@ -6,7 +6,7 @@ The code works as shown in the image:
 
 See more at: https://www.youtube.com/user/TheMiguelasd
 
-Files at: https://www.thingiverse.com/thing:3786610
+CAD files at: https://www.thingiverse.com/thing:3786610
 
 Here is a simple diagram of how the robot is working:
 ![alt text](https://github.com/miguelasd688/Quadruped-dog-like-robot/blob/master/esquema.png)
