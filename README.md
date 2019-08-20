@@ -2,8 +2,6 @@
 Exercise code of a very primitive version of static balance with a joystick and creep gait loop in a quadruped robot, i'm still working on it.
 I think it is helpfull as a example but not as something rigorous to study.
 
-The code works as shown in the image:
-
 See more at: https://www.youtube.com/user/TheMiguelasd
 
 CAD files at: https://www.thingiverse.com/thing:3786610
